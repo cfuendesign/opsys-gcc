@@ -1,6 +1,6 @@
-#import <stdio.h>
+#include <stdio.h>
 
 int main(void){
   printf("Hola Arbolitos!");
-  getch();
+	return 0;
 }
