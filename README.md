@@ -16,20 +16,20 @@ Built on [NixOS](https://nixos.org/) through [Replit](https://replit.com)
 
 ### Programa #1 (DONE)
 
-[x] Entrada: número
+- [x] Entrada: número
 
-[x] Salida: nombre del mes del año que representa ese número
+- [x] Salida: nombre del mes del año que representa ese número
 
-[x] Reto: utilizar apuntadores (pointers)
+- [x] Reto: utilizar apuntadores (pointers)
 
 ### Programa #2 (WIP)
 
-[] Entrada: una expresión en reverse polish notation (RPN)
+- [] Entrada: una expresión en reverse polish notation (RPN)
 
-[] Salida: resultado
+- [] Salida: resultado
 
 Retos:
 
-[] Utilizar apuntadores (pointers)
+- [] Utilizar apuntadores (pointers)
 
-[] Utilizar pilas (como sea)
+- [] Utilizar pilas (como sea)
