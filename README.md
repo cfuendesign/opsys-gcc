@@ -24,12 +24,12 @@ Built on [NixOS](https://nixos.org/) through [Replit](https://replit.com)
 
 ### Programa #2 (WIP)
 
-- [] Entrada: una expresión en reverse polish notation (RPN)
+- [ ] Entrada: una expresión en reverse polish notation (RPN)
 
-- [] Salida: resultado
+- [ ] Salida: resultado
 
 Retos:
 
-- [] Utilizar apuntadores (pointers)
+- [ ] Utilizar apuntadores (pointers)
 
-- [] Utilizar pilas (como sea)
+- [ ] Utilizar pilas (como sea)
