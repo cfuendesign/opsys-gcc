@@ -1,5 +1,3 @@
-#include <stdio.h>
-
 // Metastructs https://www.geeksforgeeks.org/self-referential-structures/
 
 // Metastructs v2 https://www.tutorialandexample.com/self-referential-structure-in-c
@@ -21,7 +19,6 @@ intStack intPush(struct intStack stack, int element){
 	intStackElement newTop;
 	newTop.data = element;
 	newTop.next = stack.top;
-	printf("Pushing %d to the top\n", element);
 	stack.top = &newTop;
 	return stack;
 }
