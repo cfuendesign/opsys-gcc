@@ -10,9 +10,9 @@ Built on [NixOS](https://nixos.org/) through [Replit](https://replit.com)
 
 - Removes any files with the names month or calc
 
-- Compiles month.c into a binary
+- Compiles calc.c into a binary
 
-- Runs the 'month' binary
+- Runs the 'calc' binary
 
 ### Programa #1 (DONE)
 

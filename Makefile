@@ -5,7 +5,7 @@ clean:
 	rm -f calc
 
 build: clean
-	gcc -Wall -o month month.c
+	gcc -Wall -o calc calc.c
 
 run: build
-	./month
+	./calc
