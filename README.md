@@ -2,7 +2,7 @@
 
 Begginer programs written in the C language and managed with GNU Make for my Operating Systems class.
 
-Built on [NixOS](https://nixos.org/) through [Replit](https://replit.com)
+Built with Nix through [Replit](https://replit.com)
 
 ### Before continuing:
 
