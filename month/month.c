@@ -30,7 +30,7 @@ int main(void){
 	de 11 caracteres (el tamaño de un char pero 11
 	veces seguidas) */
 	char *answer = malloc(11*sizeof(char));
-	
+
 	printf("Ingrese el número del mes cuyo nombre desea ver: \n");
 	/* scanf recibe un pointer como segundo argumento,
 	por lo que el ampersand (&input) no es necesario
